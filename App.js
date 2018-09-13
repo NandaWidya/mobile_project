@@ -22,7 +22,7 @@ export default class App extends Component<Props> {
       <Judul title= "BIODATA"/>
 
       <Image
-      source={require('/nanda/aa.jpg')}
+      source={require('./ara.jpg')}
       />
         <Text style={styles.welcome}>Hallooooo!</Text>
         <Text style={styles.instructions}>Nama : Nanda Widya Maharani</Text>
